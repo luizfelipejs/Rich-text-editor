@@ -1,0 +1,17 @@
+body {
+  background: #ecf1f3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.options button {
+  height: 30px;
+  width: 75px;
+  border-radius: 5px;
+  color: #fff;
+  margin: 5px;
+  border: 0;
+  background: #FF757D
+}
